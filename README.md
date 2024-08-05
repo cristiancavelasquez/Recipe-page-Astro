@@ -5,7 +5,7 @@
 ## Description
 
 This is a frontend project that uses Astro to create a simple and responsive recipe card.
-You can click here 👉 http://localhost:3000 to see the page in action.
+You can click here 👉 https://recipecard-astro.netlify.app/ to see the page in action.
 
 ## Technologies Used
 
