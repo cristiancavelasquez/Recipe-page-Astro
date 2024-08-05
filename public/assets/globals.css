@@ -6,7 +6,7 @@
 @layer base {
   @font-face {
     font-family: "Young Serif";
-    src: url("../public/assets/fonts/young-serif/YoungSerif-Regular.ttf")
+    src: url("/assets/fonts/young-serif/YoungSerif-Regular.ttf")
       format("truetype");
     font-weight: 400;
     font-style: normal;
@@ -15,7 +15,7 @@
   /* Outfit Regular */
   @font-face {
     font-family: "Outfit";
-    src: url("../public/assets/fonts/outfit/static/Outfit-Regular.ttf")
+    src: url("/assets/fonts/outfit/static/Outfit-Regular.ttf")
       format("truetype");
     font-weight: 400;
     font-style: normal;
@@ -24,7 +24,7 @@
   /* Outfit SemiBold */
   @font-face {
     font-family: "Outfit";
-    src: url("/public/assets/fonts/outfit/static/Outfit-SemiBold.ttf")
+    src: url("/assets/fonts/outfit/static/Outfit-SemiBold.ttf")
       format("truetype");
     font-weight: 600;
     font-style: normal;
@@ -33,7 +33,7 @@
   /* Outfit Bold */
   @font-face {
     font-family: "Outfit";
-    src: url("/public/assets/fonts/outfit/static/Outfit-Bold.ttf")
+    src: url("/assets/fonts/outfit/static/Outfit-Bold.ttf")
       format("truetype");
     font-weight: 700;
     font-style: normal;
